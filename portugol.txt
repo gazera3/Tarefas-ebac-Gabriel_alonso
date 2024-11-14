@@ -1,0 +1,15 @@
+1.Ao acordar, abro os olhos;
+2.Após abrir os olhos, levanto da cama;
+3.Após levantar da cama, vou até o banheiro;
+4.Após ir ao banheiro, escovo os dentes;
+5.Após escovar os dentes, vou para a cozinha;
+6.Ao chegar na cozinha, pego uma xícara e coloco na mesa;
+7.Após colocar a xícara na mesa, preparo o café na cafeteira;
+8.Após o café ficar pronto, despejo o café na xícara;
+9.Após colocar o café na xícara, preparo o pão com manteiga;
+10.Após preparar o pão, sento à mesa;
+11.Após sentar à mesa, tomo o café e como o pão;
+12.Após tomar o café da manhã, lavo a xícara e o prato;
+13.Após lavar a louça, vou ao meu local de trabalho;
+14.Ao chegar no local de trabalho, ligo o computador;
+15.Após ligar o computador, começo a trabalhar.
